@@ -1,0 +1,50 @@
+/* Exercise 1 */
+nav a:hover {
+  color: red;
+}
+
+/* Exercise 2 */
+nav a:active {
+  background-color: yellow;
+}
+
+/* Exercise 3 */
+nav a:link {<!
+  color: blue;
+}
+
+/* Exercise 4 */
+.links a:visited {
+  font-style: italic;
+}
+
+/* Exercise 5 */
+h2:hover {
+  background-color: lightgray;
+}
+
+/* Exercise 6 */
+h2:active {
+  text-decoration: underline;
+}
+
+/* Exercise 7 */
+.links a:last-child {
+  color: green;
+}
+
+/* Exercise 8 */
+nav ul li:nth-child(odd) {
+    background-color: lightblue;
+  }
+  
+  /* Exercise 9 */
+  .paragraphs p:nth-child(3) {
+    color: orange;
+  }
+  
+  /* Exercise 10 */
+  input:focus {
+    border: 2px solid purple;
+  }
+  
